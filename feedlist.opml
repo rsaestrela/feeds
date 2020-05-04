@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Raul Estrela Feeds</title>
+  </head>
+  <body>
+    <!-- Java -->
+    <outline title="Thoughts on Java" text="Thoughts on Java" description="Thoughts on Java" type="rss" xmlUrl="https://thoughts-on-java.org/feed/" htmlUrl="https://thoughts-on-java.org"/>
+    <outline title="Java &#x2013; Red Hat Developer" text="Java &#x2013; Red Hat Developer" description="Java &#x2013; Red Hat Developer" type="rss" xmlUrl="https://developers.redhat.com/blog/tag/java/feed/" htmlUrl="https://developers.redhat.com/blog"/>
+    <outline title="JavaWorld" text="JavaWorld" description="JavaWorld" type="rss" xmlUrl="https://www.javaworld.com/index.rss" htmlUrl="https://www.javaworld.com"/>
+    <outline title="Java, SQL and jOOQ." text="Java, SQL and jOOQ." description="Java, SQL and jOOQ." type="rss" xmlUrl="https://blog.jooq.org/feed/" htmlUrl="https://blog.jooq.org"/>
+    <outline title="InfoQ - Java" text="InfoQ - Java" description="InfoQ - Java" type="rss" xmlUrl="http://feed.infoq.com/java" htmlUrl="https://www.infoq.com"/>
+    <outline title="HowToDoInJava" text="HowToDoInJava" description="HowToDoInJava" type="rss" xmlUrl="https://howtodoinjava.com/feed/" htmlUrl="https://howtodoinjava.com"/>
+    <outline title="BenchResources.Net" text="BenchResources.Net" description="BenchResources.Net" type="rss" xmlUrl="https://www.benchresources.net/feed/" htmlUrl="https://www.benchresources.net"/>
+    <outline title="Java67" text="Java67" description="Java67" type="atom" xmlUrl="http://feeds.feedburner.com/Java67" htmlUrl="http://feeds.feedburner.com/Java67"/>
+    <outline title="Blog &#x2013; FusionReactor" text="Blog &#x2013; FusionReactor" description="Blog &#x2013; FusionReactor" type="rss" xmlUrl="https://www.fusion-reactor.com/blog/feed/" htmlUrl="https://www.fusion-reactor.com"/>
+    <outline title="SitePoint" text="SitePoint" description="SitePoint" type="rss" xmlUrl="https://www.sitepoint.com/sitepoint.rss" htmlUrl="https://www.sitepoint.com"/>
+    <outline title="Oracle Blogs | The Java Source" text="Oracle Blogs | The Java Source" description="Oracle Blogs | The Java Source" type="rss" xmlUrl="https://blogs.oracle.com/java/rss" htmlUrl="https://blogs.oracle.com/java/compendium/rss"/>
+    <outline title="A Java geek" text="A Java geek" description="A Java geek" type="rss" xmlUrl="https://blog.frankel.ch/feed.xml" htmlUrl="https://blog.frankel.ch/"/>
+    <outline title="Javarevisited" text="Javarevisited" description="Javarevisited" type="atom" xmlUrl="http://feeds.feedburner.com/Javarevisited" htmlUrl="http://feeds.feedburner.com/Javarevisited"/>
+    <outline title="Java Code Geeks" text="Java Code Geeks" description="Java Code Geeks" type="rss" xmlUrl="https://www.javacodegeeks.com/feed" htmlUrl="https://www.javacodegeeks.com"/>
+    <!-- JS -->
+    <outline title="&#x1D693;&#x1D68A;&#x1D69F;&#x1D68A;&#x1D69C;&#x1D68C;&#x1D69B;&#x1D692;&#x1D699;&#x1D69D;" text="&#x1D693;&#x1D68A;&#x1D69F;&#x1D68A;&#x1D69C;&#x1D68C;&#x1D69B;&#x1D692;&#x1D699;&#x1D69D;" description="&#x1D693;&#x1D68A;&#x1D69F;&#x1D68A;&#x1D69C;&#x1D68C;&#x1D69B;&#x1D692;&#x1D699;&#x1D69D;" type="atom" xmlUrl="https://www.reddit.com/r/javascript/.rss?format=xml" htmlUrl="https://www.reddit.com/r/javascript/?format=xml"/>
+    <outline title="Echo JS" text="Echo JS" description="Echo JS" type="rss" xmlUrl="https://www.echojs.com/rss" htmlUrl="&#10;http://www.echojs.com"/>
+    <outline title="&quot;javascript&quot; - Google News" text="&quot;javascript&quot; - Google News" description="&quot;javascript&quot; - Google News" type="rss" xmlUrl="https://news.google.com/rss/search?q=javascript&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen&amp;x=1571747170.015" htmlUrl="https://news.google.com/search?q=javascript&amp;hl=en-US&amp;gl=US&amp;ceid=US:en&amp;x=1571747170.015"/>
+    <outline title="Vue.js Developers" text="Vue.js Developers" description="Vue.js Developers" type="rss" xmlUrl="https://vuejsdevelopers.com/feed.xml" htmlUrl="https://vuejsdevelopers.com"/>
+    <!-- Other -->
+    <outline title="David Walsh Blog" text="David Walsh Blog" description="David Walsh Blog" type="rss" xmlUrl="https://davidwalsh.name/feed" htmlUrl="https://davidwalsh.name"/>
+    <outline title="The Clean Code Blog" text="The Clean Code Blog" description="The Clean Code Blog" type="atom" xmlUrl="https://blog.cleancoder.com/atom.xml" htmlUrl="http://blog.cleancoder.com/"/>
+  </body>
+</opml>
